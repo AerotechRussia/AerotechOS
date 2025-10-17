@@ -1,5 +1,12 @@
 /****************************************************************************
  *
+ * Copyright (c) 2025 AEROTECH. All rights reserved.
+ * This file contains proprietary modifications for ILAS functionality.
+ *
+ ****************************************************************************/
+
+/****************************************************************************
+ *
  *   Copyright (c) 2013-2018 PX4 Development Team. All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
