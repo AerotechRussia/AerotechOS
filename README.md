@@ -1,4 +1,4 @@
-#A AEROTECH OS
+# AEROTECH OS
 
 
 AOS is highly portable, OS-independent and supports Linux, NuttX and MacOS out of the box.
